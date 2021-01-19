@@ -1,0 +1,34 @@
+.wrap {
+    width: 800px;
+    height: 800px;
+    position: relative;
+    margin: auto;
+    background-color: khaki;
+}
+
+.box {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    background-color: indigo;
+    position: relative;
+    top: 100px;
+}
+
+ul {
+    color: lightgoldenrodyellow;
+    font-size: 20px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    font-variant: small-caps;
+}
+
+p {
+    text-align: center;
+    font-family: cursive;
+    text-shadow: 2px -2px 5px rgb(25, 179, 71), 1px -1px 4px red;
+    color: lightgrey;
+    position: -webkit-sticky;
+    top: 200px;
+    font-size: 50px;
+}
